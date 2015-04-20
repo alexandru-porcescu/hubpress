@@ -3,6 +3,9 @@
 
 
 Interesting **general programming** links are:
+
+
+* http://www.bigfastblog.com/quoras-technology-examined[Quora’s Technology Examined | Big Fast Blog, role="external", window="_blank"]
     
     
 * http://nichol.as/zeromq-an-introduction?utm_content=buffer30076&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer[Nicholas Piël » ZeroMQ an introduction, role="external", window="_blank"]
@@ -27,9 +30,6 @@ Interesting **general programming** links are:
     
     
 * http://startupstash.com/[Startup Stash - Curated resources for your startup, role="external", window="_blank"]
-    
-    
-* http://www.bigfastblog.com/quoras-technology-examined[Quora’s Technology Examined | Big Fast Blog, role="external", window="_blank"]
     
     
 * https://blog.svpino.com/2014/09/06/code-coverage-is-almost-useless[Code coverage is (almost) useless, role="external", window="_blank"]
