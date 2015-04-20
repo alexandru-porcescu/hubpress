@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "alexandru-porcescu",
-    "repositoryName": "alexandru-porcescu.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"alexandru-porcescu","repositoryName":"alexandru-porcescu.github.io","branch":"master"},"site":{"title":"Alexandru Porcescu","url":"https://alexandru-porcescu.github.io"},"socialnetwork":{"email":"alex.porcescu@gmail.com","twitter":"https://twitter.com/litechip","linkedin":"https://ro.linkedin.com/pub/alexandru-porcescu/99/b94/a8a","github":"https://github.com/alexandru-porcescu"},"theme":{"name":"Casper","url":"//alexandru-porcescu.github.io/themes/Casper"}}
