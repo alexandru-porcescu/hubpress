@@ -4,32 +4,32 @@
 Interesting **general programming** links are:
     
     
-* http://nichol.as/zeromq-an-introduction?utm_content=buffer30076&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer[Nicholas Piël » ZeroMQ an introduction, role="external", window="_blank"]
+* http://nichol.as/zeromq-an-introduction?utm_content=buffer30076&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer[Nicholas Piël » ZeroMQ an introduction, role="external", target="_blank"]
     
     
-* http://users.ece.utexas.edu/~adnan/pike.html?utm_content=bufferb827e&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer[Rob Pike's 5 Rules of Programming, role="external", window="_blank"]
+* http://users.ece.utexas.edu/~adnan/pike.html?utm_content=bufferb827e&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer[Rob Pike's 5 Rules of Programming, role="external", target="_blank"]
     
     
-* http://backchannel.org/blog/friendfeed-schemaless-mysql[How FriendFeed uses MySQL to store schema-less data, role="external", window="_blank"]
+* http://backchannel.org/blog/friendfeed-schemaless-mysql[How FriendFeed uses MySQL to store schema-less data, role="external", target="_blank"]
     
     
-* http://jodal.no/post/3669476502/pickling-multiprocessing-connection-objects/?utm_content=bufferc00a2&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer[Pickling multiprocessing Connection objects, role="external", window="_blank"]
+* http://jodal.no/post/3669476502/pickling-multiprocessing-connection-objects/?utm_content=bufferc00a2&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer[Pickling multiprocessing Connection objects, role="external", target="_blank"]
     
     
-* http://blog.algorithmia.com/post/116365814879/how-machines-see-the-web-exploring-the-web?utm_content=buffer3e6f3&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer[How Machines See the Web: Exploring the Web Algorithmically, role="external", window="_blank"]
+* http://blog.algorithmia.com/post/116365814879/how-machines-see-the-web-exploring-the-web?utm_content=buffer3e6f3&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer[How Machines See the Web: Exploring the Web Algorithmically, role="external", target="_blank"]
     
     
-* https://segment.com/blog/gotchas-from-two-years-of-node/?utm_content=buffer794ef&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer[Gotchas From Two Years With Node, role="external", window="_blank"]
+* https://segment.com/blog/gotchas-from-two-years-of-node/?utm_content=buffer794ef&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer[Gotchas From Two Years With Node, role="external", target="_blank"]
     
     
-* http://www.nczonline.net/blog/2015/04/14/consensus-driven-development/?utm_content=buffer5c4d1&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer[Consensus-Driven Development | NCZOnline, role="external", window="_blank"]
+* http://www.nczonline.net/blog/2015/04/14/consensus-driven-development/?utm_content=buffer5c4d1&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer[Consensus-Driven Development | NCZOnline, role="external", target="_blank"]
     
     
-* http://startupstash.com/[Startup Stash - Curated resources for your startup, role="external", window="_blank"]
+* http://startupstash.com/[Startup Stash - Curated resources for your startup, role="external", target="_blank"]
     
     
-* http://www.bigfastblog.com/quoras-technology-examined[Quora’s Technology Examined | Big Fast Blog, role="external", window="_blank"]
+* http://www.bigfastblog.com/quoras-technology-examined[Quora’s Technology Examined | Big Fast Blog, role="external", target="_blank"]
     
     
-* https://blog.svpino.com/2014/09/06/code-coverage-is-almost-useless[Code coverage is (almost) useless, role="external", window="_blank"]
+* https://blog.svpino.com/2014/09/06/code-coverage-is-almost-useless[Code coverage is (almost) useless, role="external", target="_blank"]
     
